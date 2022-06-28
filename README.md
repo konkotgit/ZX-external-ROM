@@ -13,3 +13,6 @@ The interface will work properly with computers:
 The interface does not work with ZX Spectrum 128 + 2A / B and +3 computers
 
 ![ZX Spectrum external ROM](/photos/zx_external_diagnostic_interface_small.jpg)
+
+### Look at YouTube:
+[![YouTube link](https://img.youtube.com/vi/Yh-fAGhiGfk/0.jpg)](https://www.youtube.com/watch?v=Yh-fAGhiGfk)
